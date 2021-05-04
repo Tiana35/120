@@ -17,6 +17,7 @@ body
   {
   	font-size: 23px;
   	margin: 15px;
+    float:left;
   }
     canvas 
   {
