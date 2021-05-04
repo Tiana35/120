@@ -55,7 +55,7 @@ function gotPoses(results)
 }
 
 function draw() {
-	image(video, 0, 0, 600, 500);
+	image(video, 0, 0, 200, 200);
 	
 	song1_status = song1.isPlaying();
 	song2_status = song2.isPlaying();
